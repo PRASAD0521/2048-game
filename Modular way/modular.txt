@@ -1,0 +1,8 @@
+in this folder we are going to write the code in industry standards.
+we are going to make the entire program in to three files.
+1) 2048.h // header file
+2) 2048.cpp //worker file
+3) main.cpp //the file that contains main() function.
+
+this will enhance the modularity and redability of the code.
+this will amke the program future proof.

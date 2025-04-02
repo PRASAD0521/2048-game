@@ -6,3 +6,8 @@ we are going to make the entire program in to three files.
 
 this will enhance the modularity and redability of the code.
 this will amke the program future proof.
+
+NOTE : to run the code of modular file, we need to compile 
+        the both 2048game.cpp and main.cpp at a time.
+        use the following command.
+        {g++ main.cpp game2048.cpp -o main}
